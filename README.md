@@ -1,4 +1,4 @@
-# SQS plugin for Jenkins [![Build Status](https://img.shields.io/travis/cfpb/jenkins-sqs-plugin.svg?maxAge=2592000&style=flat-square)](https://travis-ci.org/cfpb/jenkins-sqs-plugin)
+# SQS plugin for Jenkins
 
 Based on the [Mattermost plugin](https://github.com/jenkinsci/mattermost-plugin/) which was a fork of the [Slack plugin](https://github.com/jenkinsci/slack-plugin/) which was a fork of the [HipChat plugin](https://github.com/jlewallen/jenkins-hipchat-plugin) which was a fork of the Campfire plugin.
 
